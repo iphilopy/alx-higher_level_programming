@@ -1,4 +1,4 @@
 
 #!/bin/bash
 python3 -c "$PYCODE"
-PYCODE='print(f"Best School: {88+10}")'
+print(f"Best School: {88+10}")'
